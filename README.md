@@ -1,4 +1,4 @@
-Hi 👋 Mi chiamo Gabry
+Ciao 👋 Mi chiamo Gabriele
 ====================
 
 Sono un ragazzo di 16 anni appassionato di informatica ed elettronica.
